@@ -1,0 +1,1 @@
+combine -M MultiDimFit --algo=contour2d --points 20 -P k_ttjj -P R_ttbbttjj TestPlots.root -m 125 -n nominal  --setPhysicsModelParameterRanges k_ttjj=0.5,0.99:R_ttbbttjj=0.001,0.2
